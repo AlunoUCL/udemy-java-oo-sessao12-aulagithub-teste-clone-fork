@@ -1,0 +1,10 @@
+o commit: 9d69185df9f3f89b585f4ec4fb9df9d7f0273e0c
+
+Foi utilizado a espressão: 
+git commit -m "Adiconando produto-Notebook R$5000,00 em vendas"
+
+Neste caso do caractere especial "$5000,00" transformou em:
+git commit -m "Adiconando produto-Notebook R,00 em vendas"
+
+este novo commit será utilizado esta espressão: 
+git commit -m "Refatorando Adiconando produto-Notebook R$5000,00 em vendas - cuidado.txt"
